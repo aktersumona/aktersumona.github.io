@@ -1,0 +1,38 @@
+p
+{
+ color:white;
+}
+
+h1
+{
+ font-size: 40px;
+ text-align: center;
+}
+
+p,li
+{
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 2px; 
+   
+}
+
+html
+{
+  background-color: orange;
+}
+body {
+     width: 600px;
+     margin: 0 auto;
+     background-color: blue;
+     padding: 0px 20px 20px;
+     border: 10px solid white;
+     } 
+h1{
+  margin: 0;
+  padding: 20px 0;
+  color: white;
+  text-shadow: 3px 3px 1px red;
+  }
+
+
